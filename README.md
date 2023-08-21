@@ -1,2 +1,2 @@
 # Datascience
-Datascience projects
+Datascience projects developed by me
